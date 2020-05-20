@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\oscam\OneDrive\Documentos2\GitHub\ezc3d\binding\matlab\utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\oscam\OneDrive\Documentos2\GitHub\ezc3d\binding\matlab\ezc3dWrite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\oscam\OneDrive\Documentos2\GitHub\ezc3d\binding\matlab\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\oscam\OneDrive\Documentos2\GitHub\ezc3d\binding\matlab\Matlabdef.def">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6C37A964-7ECE-3107-A76E-DC1D3EF3DD5A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
